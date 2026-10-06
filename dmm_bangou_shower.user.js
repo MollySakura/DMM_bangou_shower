@@ -1,17 +1,15 @@
 // ==UserScript==
 // @name         DMM番号展示
-// @namespace    https://github.com/candymagicshow/dmm_bangou_shower
-// @version      4.1
+// @namespace    https://github.com/MollySakura/DMM-/blob/main/dmm_bangou_shower.user.js
+// @version      4.2
 // @license      GPL License
 // @description  在商品标题下方展示番号，兼容新版列表布局
-// @author       candymagic
+// @author       Melody
 // @include      https://*.dmm.co.*/*
 // @include      https://*.mgstage.*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dmm.co.jp
 // @grant        none
 // @run-at       document-end
-// @downloadURL https://update.greasyfork.org/scripts/525444/DMM%E7%95%AA%E5%8F%B7%E5%B1%95%E7%A4%BA.user.js
-// @updateURL https://update.greasyfork.org/scripts/525444/DMM%E7%95%AA%E5%8F%B7%E5%B1%95%E7%A4%BA.meta.js
 // ==/UserScript==
 
 (function () {
