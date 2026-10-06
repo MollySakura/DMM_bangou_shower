@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DMM番号展示
-// @namespace    https://github.com/MollySakura/DMM-/blob/main/dmm_bangou_shower.user.js
+// @namespace    https://github.com/MollySakura/DMM_bangou_shower/blob/main/dmm_bangou_shower.user.js
 // @version      4.2
 // @license      GPL License
 // @description  在商品标题下方展示番号，兼容新版列表布局
